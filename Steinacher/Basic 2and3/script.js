@@ -1,0 +1,1 @@
+document.write('<h1>' + 'Hi my name is Martin and I am 25 years old' + '</h1>');
